@@ -1,0 +1,39 @@
+{
+  "User1": {
+    "name": "Sebastian Test 1",
+    "email": "test1@test.com",
+    "phone": "11111111",
+    "date": "November 11, 2020",
+    "time": "1:00 pm",
+    "party": "1 person",
+    "request": "Testing user 1"
+  },
+  "User2": {
+    "name": "Sebastian Test 2",
+    "email": "test2@test.com",
+    "phone": "22222222",
+    "date": "November 10, 2020",
+    "time": "2:00 pm",
+    "party": "2 people",
+    "request": "Testing user 2"
+  },
+  "User3": {
+    "name": "Sebastian Test 3",
+    "email": "test3@test.com",
+    "phone": "33333333",
+    "date": "November 9, 2020",
+    "time": "7:00 pm",
+    "party": "3 people",
+    "request": "Testing user 3"
+  },
+  "User4": {
+    "name": "Sebastian Test 4",
+    "email": "test4@test.com",
+    "phone": "44444444",
+    "date": "November 8, 2020",
+    "time": "8:00 pm",
+    "party": "4 people",
+    "request": "Testing user 4"
+  }
+}
+  
